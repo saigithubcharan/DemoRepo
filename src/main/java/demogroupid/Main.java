@@ -9,6 +9,7 @@ public class Main {
         System.out.printf("Hello Srikanth , Saicharan Here");
         Hello obj=new Hello();
         obj.add();
+        obj.sub();
 
     }
 }
